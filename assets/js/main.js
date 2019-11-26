@@ -73,7 +73,7 @@ NOTE: This is the custom jQuery file for the template
         var element = $(".element");
         $(function() {
             element.typed({
-                strings: ["Regenerative Medecine Enthusiast." , "Futurist.", "AI Developer.", "Web Designer.", "Innovator.", "Imapcting Billions."],
+                strings: ["AI Developer.", "High School Student." , "Innovator @ The Knowledge Society.", "Futurist.", "Web Designer.", "Curious."],
                 typeSpeed: 100,
                 loop: true,
             });
