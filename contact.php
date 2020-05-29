@@ -4,13 +4,13 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'zakirangwala@gmail.com';
+$from = $_POST['email'];;
 
 // an email address that will receive the email with the output of the form
 $sendTo = 'zakirangwala@gmail.com';
 
 // subject of the email
-$subject = 'New message from contact form';
+$subject = $_POST['subject'];
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
@@ -27,7 +27,7 @@ $errorMessage = 'There was an error while submitting the form. Please try again 
  */
 
 // if you are not debugging and don't need error reporting, turn this off by error_reporting(0);
-error_reporting(E_ALL & ~E_NOTICE);
+error_reporting(0);
 
 try
 {
