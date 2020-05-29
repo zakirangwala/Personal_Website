@@ -1,8 +1,3 @@
-
-Welcome to my website!
-
-Coming on a computer screen near you very soon!
-
-(Undergoing construction...)
-
-![](under_construction.gif)
+#Personal Website
+Showcases my portfolio and skills
+Made by Zaki Rangwala
