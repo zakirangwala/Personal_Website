@@ -1,4 +1,5 @@
-# Personal Website
+# Preview
 <img src = assets/img/showcase.png>
-Showcases my portfolio and skills
+
+# Website to showcase skills
 Made by Zaki Rangwala
