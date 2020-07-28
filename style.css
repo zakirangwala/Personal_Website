@@ -293,6 +293,7 @@ a{
  
  .welcome-area {
      background-size: cover;
+     max-width: 100%;
      background-position: center center;
      z-index: 1;
      position: relative;
