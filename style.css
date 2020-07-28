@@ -292,9 +292,11 @@ a{
 ==================================================*/
  
  .welcome-area {
-    -webkit-background-size:cover;
-     background-position: center center;
-     background-attachment:scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
      z-index: 1;
      position: relative;
      height: 100%;
@@ -305,9 +307,14 @@ a{
      content: "";
      top: 0;
      left: 0;
+     right: 0;
      width: 100%;
      height: 100%;
      background: #000;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
      opacity: .6;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
      z-index: -1;
