@@ -296,7 +296,7 @@ a{
      background-position: center center;
      z-index: 1;
      position: relative;
-     height: auto;
+     height: 100%;
  }
  .welcome-area:after,
  .quotes-area:after {
