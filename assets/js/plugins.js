@@ -1,16 +1,3 @@
-
-/*
-
-Template Name: Pixie - Personal Portfolio Template
-Author: mhbthemes
-Version: 1.0
-Design and Developed by:mhbthemes
-
-NOTE:  
-
-*/
-
-
 /*================================================
 [  Table of contents  ]
 ================================================
