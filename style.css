@@ -722,7 +722,9 @@ ul.work-list li.active{
 .project-list li a:hover{
     color: #444;
 }
-
+.portfolio_wrapper {
+    text-align: center;
+}
  /*===============================================
 	    8. STAT AREA
 ===============================================*/
