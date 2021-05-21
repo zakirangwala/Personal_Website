@@ -61,7 +61,7 @@
         var element = $(".element");
         $(function() {
             element.typed({
-                strings: ["Software Developer", "Ambitious Teenager", "Curious", "Web Developer", "Futurist","AI Developer", "High School Student" , ],
+                strings: ["Software Developer", "Ambitious", "Web Developer", "Curious", "Futurist","AI Developer", ],
                 typeSpeed: 100,
                 loop: true,
             });
